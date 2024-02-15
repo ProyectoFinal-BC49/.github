@@ -6,7 +6,7 @@ Del mismo modo se amplía las funcionalidades requeridas.
 
 ## Vista General
 
-![Diagrama de Arquitectura](https://raw.githubusercontent.com/ProyectoFinal-BC49/.github/main/res/diagram_proy4.png)
+![Diagrama de Arquitectura](https://raw.githubusercontent.com/ProyectoFinal-BC49/.github/main/res/diagramfinal.png)
 
 La imagen anterior ofrece una visión general de la arquitectura, donde cada microservicio cumple un papel crucial en la entrega de funcionalidades específicas. Del mismo modo, contempla otras herramientas usadas en el desarrollo de la solución. A continuación, proporciono detalles sobre cada repositorio que forma parte de este proyecto.
 
