@@ -48,6 +48,10 @@ Microservicio de Clientes: API para gestionar eficientemente la información de 
 ### [ms-monedero](https://github.com/ProyectoFinal-BC49/ms-monedero)
 Microservicio se encargará de gestionar todas las funcionalidades relacionadas con el monedero móvil, como la creación de cuentas de monedero, recepción y envío de pagos, y la asociación con tarjetas de débito.
 
+### [ms-bootcoin](https://github.com/ProyectoFinal-BC49/ms-bootcoin)
+Microservicio se encargará de gestionar todas las funcionalidades relacionadas con el servicio P2P con su moneda virtual BootCoin.
+
+
 ### [Api-gateway](https://github.com/ProyectoFinal-BC49/Api-Gateway)
 Actúa como un API gateway, centralizando el enrutamiento y la gestión de peticiones para garantizar una comunicación eficiente entre microservicios.
 
