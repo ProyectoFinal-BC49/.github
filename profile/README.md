@@ -60,6 +60,9 @@ Contiene configuraciones (.properties) de cada microservicio, facilitando la adm
 ### [discovery-service](https://github.com/ProyectoFinal-BC49/discovery-service)
 Actúa como el server de Eureka para registrar los microservicios y permitir el descubrimiento dinámico.
 
+### [Colección Postman](https://github.com/ProyectoFinal-BC49/.github/blob/main/res/PROYECTO4-BC49.postman_collection.json)
+Se adjunta la colección del postman.
+
 ## Cierre
 Para concluir, si hay aspectos específicos que se requiira explorar en mayor detalle, mi correo electrónico personal: vertkle@gmail.com, para cualquier inquietud que pueda surgir.
 
